@@ -16,7 +16,7 @@ This project builds an **ETL pipeline** to extract, transform, and load supermar
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/<your-username>/airflow-supermarket-etl.git
+git clone https://github.com/<FM-Razu>/airflow-supermarket-etl.git
 cd airflow-supermarket-etl
 ```
 
